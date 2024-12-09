@@ -1,0 +1,15 @@
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/bin/Debug/net8.0/PrimeNumberChecker
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/bin/Debug/net8.0/PrimeNumberChecker.deps.json
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/bin/Debug/net8.0/PrimeNumberChecker.runtimeconfig.json
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/bin/Debug/net8.0/PrimeNumberChecker.dll
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/bin/Debug/net8.0/PrimeNumberChecker.pdb
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.AssemblyInfoInputs.cache
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.AssemblyInfo.cs
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.csproj.CoreCompileInputs.cache
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.sourcelink.json
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.dll
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/refint/PrimeNumberChecker.dll
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.pdb
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/PrimeNumberChecker.genruntimeconfig.cache
+/Users/dilmiwickramarathna/Documents/C#/Projects/Prime_Number_Checker/PrimeNumberChecker/obj/Debug/net8.0/ref/PrimeNumberChecker.dll
